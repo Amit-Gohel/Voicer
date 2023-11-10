@@ -12,7 +12,7 @@
 <body>
 
   <!-- Team Members Section -->
-  <section>
+  <section align="justify">
       <h2>Team Members</h2>
 
   <ul>
@@ -49,7 +49,7 @@
   </section>
 
   <!-- Problem Statement Section -->
-  <section>
+  <section align="justify">
       <h2>Problem Statement</h2>
 
   <p>
