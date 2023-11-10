@@ -21,7 +21,7 @@
           <br>
           GitHub: <a href="#">GitHub-Aditi</a>
           <br>
-          LinkedIn: <a href="#">LinkedIn-Aditi</a>
+          LinkedIn: <a href="https://www.linkedin.com/in/aditipatel01/">LinkedIn-Aditi</a>
           <br>
           Work: Conducted research and development for Voicer, prepared a comprehensive PowerPoint presentation, and crafted a speech for the competition.
       </li>
@@ -41,7 +41,7 @@
       <br>
       GitHub: <a href="#">GitHub-Varun</a>
       <br>
-      LinkedIn: <a href="#">LinkedIn-Varun</a>
+      LinkedIn: <a href="https://www.linkedin.com/in/varun-thummar-1459a420a/">LinkedIn-Varun</a>
       <br>
       Work: Establish Bluetooth communication between ESP32 for real-time sensor data reception, enable communication between the app and ESP32, and execute all hardware implementations.
   </li>
@@ -54,15 +54,6 @@
 
   <p>
       According to the National Geographic Society, there are approximately 72 million people worldwide who use sign language. In India alone, this number reaches 10 million. These individuals face significant challenges in their daily lives, including misunderstandings and miscommunication. Limited availability of skilled sign language interpreters, with only 300 certified interpreters in India, exacerbates these challenges. The dependence on interpreters can be expensive and inconvenient, hindering effective communication for the deaf and mute community.
-  </p>
-  </section>
-
-  <!-- Solution Section -->
-  <section align="justify">
-      <h2>Solution</h2>
-
-  <p>
-      In response to these challenges, Team Hackvengers presents Voicer, a revolutionary communication device designed to empower individuals who use sign language. Voicer is a portable and wearable device equipped with sensors embedded in rings worn on the fingers. This device interprets sign language gestures in real-time, providing an audio output that enables seamless communication without the need for an interpreter.
   </p>
   </section>
 
