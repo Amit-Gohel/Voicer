@@ -67,10 +67,10 @@
   </section>
 
   <!-- Solution Section -->
-<section >
+<section align="justify">
     <h2>Solution</h2>
 
-<p align="justify">
+<p>
     Our solution, named "Voicer," is a groundbreaking communication device designed to address the challenges faced by individuals using sign language. Voicer is a portable and wearable device equipped with advanced technology that seamlessly integrates machine learning with a hardware device, providing a comprehensive solution to bridge communication gaps for the deaf and mute community.
 </p>
 
@@ -92,6 +92,58 @@
     Our team is committed to ongoing improvements and future updates for Voicer. Planned enhancements include the development of a wireless version for increased convenience, user customization for adding personal signs, and the integration of a display to showcase spoken words for the deaf community to read.
 </p>
 </section>
+
+<!-- Achievements Section -->
+<section align="justify">
+    <h2>Achievements</h2>
+
+<h3>Samsung Solve for Tomorrow Competition</h3>
+<p>
+    Our "Voicer" project successfully secured a place in the top 10 finalists among 70,000+ participants in the prestigious Samsung Solve for Tomorrow competition. This innovative sign language recognition system is designed to aid 72 million people who are deaf or hard of hearing, enhancing their communication.
+</p>
+
+<h4>National Recognition on CNN News18</h4>
+<p>
+    Our "Voicer" project gained national recognition and was featured on CNN News18 TV channel during the second episode of the Samsung Solve for Tomorrow competition.
+</p>
+</section>
+
+<!-- External Links Section -->
+<section align="justify">
+    <h2>External Links</h2>
+
+<h3>Project Videos</h3>
+<ul>
+    <li>
+        <a href="https://x.com/SamsungNewsIN/status/1697949999186010136?s=20">
+            Pre-Competition Video on X(Twitter)
+        </a>
+    </li>
+    <li>
+        <a href="https://www.facebook.com/cnnnews18/videos/1011721290157892/?t=3760">
+            Final Pitch Video on Facebook
+        </a>
+    </li>
+    <!-- Add more video links as needed -->
+</ul>
+
+<h3>Media Coverage</h3>
+<ul>
+    <li>
+        <a href="https://bit.ly/3Lpzwp7">
+            Solution description on Samsung Website
+        </a>
+    </li>
+    <li>
+        <a href="https://youtu.be/mYB_ZDl1Ngc?si=EOKG5D37gGG-YLRy">
+            Samsung Solve for Tomorrow Season 2, Episode 2 on Youtube
+        </a>
+    </li>
+    <!-- Add more media coverage links as needed -->
+</ul>
+</section>
+
+
 
 
 </body>
