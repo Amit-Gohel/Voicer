@@ -66,6 +66,34 @@
   </p>
   </section>
 
+  <!-- Solution Section -->
+<section >
+    <h2>Solution</h2>
+
+<p align="justify">
+    Our solution, named "Voicer," is a groundbreaking communication device designed to address the challenges faced by individuals using sign language. Voicer is a portable and wearable device equipped with advanced technology that seamlessly integrates machine learning with a hardware device, providing a comprehensive solution to bridge communication gaps for the deaf and mute community.
+</p>
+
+<h3>Key Features:</h3>
+<ul>
+    <li><strong>Real-time Sign Language Interpretation:</strong> Voicer interprets sign language gestures in real-time, allowing users to communicate effortlessly without the need for an interpreter.</li>
+    <li><strong>Portable and Wearable:</strong> The device is compact, lightweight, and designed for easy portability, enabling users to carry it with them wherever they go.</li>
+    <li><strong>ML Model Integration:</strong> Our solution incorporates a robust machine learning model trained on a diverse dataset, with a focus on Indian sign language, ensuring accurate interpretation.</li>
+    <li><strong>Offline Functionality:</strong> Voicer operates without the need for an internet connection, providing reliable communication in various environments.</li>
+</ul>
+
+<h3>How Voicer Works:</h3>
+<p>
+    Voicer utilizes a ring-based structure, with sensors embedded in each ring worn on the fingers. When a user performs sign language gestures, the sensors collect data on hand movements, which is then transmitted to the device's controller. The machine learning model on the controller interprets the sign language, providing an audio output through the device's speaker or a connected mobile application.
+</p>
+
+<h3>Future Developments:</h3>
+<p>
+    Our team is committed to ongoing improvements and future updates for Voicer. Planned enhancements include the development of a wireless version for increased convenience, user customization for adding personal signs, and the integration of a display to showcase spoken words for the deaf community to read.
+</p>
+</section>
+
+
 </body>
 
 </html>
