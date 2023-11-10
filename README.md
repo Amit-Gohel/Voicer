@@ -58,7 +58,7 @@
   </section>
 
   <!-- Solution Section -->
-  <section>
+  <section align="justify">
       <h2>Solution</h2>
 
   <p>
