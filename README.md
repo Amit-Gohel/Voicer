@@ -111,6 +111,11 @@
         </a>
     </li>
     <li>
+        <a href="https://www.facebook.com/cnnnews18/videos/1011721290157892/?t=11125">
+            Our Journey to Make Product
+        </a>
+    </li>
+    <li>
         <a href="https://www.facebook.com/cnnnews18/videos/1011721290157892/?t=3760">
             Final Pitch Video on Facebook
         </a>
