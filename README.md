@@ -134,8 +134,11 @@
 </ul>
 </section>
 
-
-
+<section>
+    <h2>Voicer Device Photos</h2>
+    <p>Explore images of our Voicer device in action:</p>
+    <a href="https://drive.google.com/drive/folders/1tpLVUuKZlnIZsIs_dJ6AgB7Q-GawhA8g?usp=drive_link" target="_blank">Voicer Device Photo Drive</a>
+</section>
 
 </body>
 
